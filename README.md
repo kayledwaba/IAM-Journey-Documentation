@@ -1,1 +1,1 @@
-# IAM-Journey-Documentation
+# IAM Journey Documentation
